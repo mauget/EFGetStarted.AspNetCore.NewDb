@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$PROJECT_DIR$" t="IncludeRecursive">
-      <e p=".git/info/exclude" t="IncludeRecursive" />
+    <e p="C:\Users\mauget\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\mauget\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mauget\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\mauget\RiderProjects\EFGetStarted.AspNetCore.NewDb" t="IncludeRecursive">
       <e p=".gitignore" t="Include" />
       <e p="appsettings.Development.json" t="Include" />
       <e p="appsettings.json" t="Include" />
@@ -34,6 +36,7 @@
       <e p="Properties" t="Include">
         <e p="launchSettings.json" t="Include" />
       </e>
+      <e p="README.md" t="Include" />
       <e p="Startup.cs" t="Include" />
       <e p="Views" t="Include">
         <e p="_ViewImports.cshtml" t="Include" />
@@ -119,8 +122,5 @@
         </e>
       </e>
     </e>
-    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_.19.00" t="ExcludeRecursive" />
-    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
   </component>
 </project>
